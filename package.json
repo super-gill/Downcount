@@ -1,0 +1,15 @@
+{
+  "name": "downcount",
+  "version": "0.1.0",
+  "description": "A letters, numbers and anagram game against a thirty second clock.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "test": "node --test",
+    "build:data": "node tools/build-data.mjs"
+  },
+  "devDependencies": {
+    "word-list": "^4.1.0"
+  }
+}
