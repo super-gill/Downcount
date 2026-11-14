@@ -54,3 +54,7 @@ npm test
 The dictionary in `data/words.txt` is built from the
 [word-list](https://github.com/sindresorhus/word-list) package (MIT licence).
 The game uses no other third-party code, fonts, images or sounds.
+
+## Licence
+
+Released under the [MIT licence](LICENSE).

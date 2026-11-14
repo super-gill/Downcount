@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A letters, numbers and anagram game against a thirty second clock.",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "start": "npx --yes serve .",
